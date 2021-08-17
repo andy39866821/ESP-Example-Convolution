@@ -1,0 +1,6 @@
+conv_plm_block_in_dma32 4000 32 1w:0r 0w:1r
+conv_plm_block_weight_dma32 1200 32 1w:0r 0w:1r
+conv_plm_block_out_dma32 1200 32 1w:0r 0w:1r
+conv_plm_block_in_dma64 4000 32 2w:0r 0w:1r
+conv_plm_block_weight_dma64 1200 32 2w:0r 0w:1r
+conv_plm_block_out_dma64 1200 32 1w:0r 0w:2r

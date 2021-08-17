@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sld>
+  <accelerator name="conv" desc="Accelerator CONV" data_size="4" device_id="098" hls_tool="stratus_hls">
+    <param name="C" desc="C" />
+    <param name="M" desc="M" />
+    <param name="P" desc="P" />
+    <param name="Q" desc="Q" />
+    <param name="R" desc="R" />
+    <param name="S" desc="S" />
+    <param name="mem_input_addr" desc="mem_input_addr" />
+    <param name="mem_output_addr" desc="mem_output_addr" />
+  </accelerator>
+</sld>
